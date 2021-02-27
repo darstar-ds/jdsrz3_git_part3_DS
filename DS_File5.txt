@@ -6,9 +6,10 @@ A jescze zmiana w piątym pliku
 znowu tutaj konrad - drugi komentarz
 
 tutaj 
-sobie
+
 cos
 dodaje
 na
 nowym
 branchu
+abcdef
